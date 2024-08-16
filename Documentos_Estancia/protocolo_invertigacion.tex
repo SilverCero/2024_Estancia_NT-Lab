@@ -1,33 +1,40 @@
-\documentclass{article}
+\documentclass[12pt]{article}
 
 \usepackage{fancyhdr}  % Package for custom headers and footers
 \usepackage{graphicx}  % Package to include images
 \usepackage{array}     % Package for more flexible table columns
 \usepackage{titlesec}  % Package for customizing section titles
 
+% Set headheight and topmargin to avoid warnings
+\setlength{\headheight}{60pt}
+\setlength{\topmargin}{-0.5in}
+\setlength{\textheight}{9in}
 
-\title{Implementación de un Interfaz Cerebro-Computadora basado en P300 para el Control e Interacción de Robots}
-\author{~}  % Minimal content to avoid warnings
-\date{\today}
-
-% Configure the header
+% Configure the header for all pages
 \pagestyle{fancy}
 \fancyhf{}  % Clear all header and footer fields
-\fancyhead[L]{\includegraphics[height=2cm]{recursos_img/tec_header_logo.png}}  % Insert image in the left header
+\fancyhead[L]{\includegraphics[height=1.5cm]{recursos_img/tec_header_logo.png}}  % Insert image in the left header
 \fancyhead[R]{\parbox[b]{7cm}{\raggedleft \textbf{Comité institucional de ética en la investigación.\\ Propuesta de protocolo de investigación.}}}
 
 \begin{document}
 
-\maketitle
+% Title with header
+\begin{flushleft}
+    \textbf{\Large Implementación de un Interfaz Cerebro-Computadora basado en P300 para el Control e Interacción de Robots}
+    \par
+    \textbf{15 de Agosto de 2024}
+\end{flushleft}
 
-\section{Investigador principal.}
+% Start content with the header applied
+\section{Investigador principal}
+
 \begin{table}[h!]
     \centering
-    \begin{tabular}{|c|c|} \hline
+    \begin{tabular}{|c|p{10cm}|} \hline
         Nombre & Javier Mauricio Antelis Ortíz \\ \hline
         Cargo & Profesor - Investigador \\ \hline
         Institución de adscripción & Tecnológico de Monterrey \\ \hline
-        División a la cual pertenece & Departamento de Computació, Escuela de Ingeniería y Ciencias \\ \hline
+        División a la cual pertenece & Departamento de Computación \newline Escuela de Ingeniería y Ciencias \\ \hline
         Dirección electrónica & example@example.com \\ \hline
         Grado máximo de estudio & Doctorado \\ \hline
         Disciplina & Computación \\ \hline
@@ -35,21 +42,27 @@
     \end{tabular}
 \end{table}
 
-\section{Investigadores asociados.}
+\section{Investigadores asociados}
 
 \begin{table}[h!]
     \centering
     \begin{tabular}{|c|c|} \hline
         Eleazar Olivas Gaspar & A01731405@tec.mx \\ \hline
-        Eleazar Olivas Gaspar & A01731405@tec.mx \\ \hline
-        Eleazar Olivas Gaspar & A01731405@tec.mx \\ \hline
-        Eleazar Olivas Gaspar & A01731405@tec.mx \\ \hline
-        Eleazar Olivas Gaspar & A01731405@tec.mx \\ \hline
-        Eleazar Olivas Gaspar & A01731405@tec.mx \\ \hline        
+        Nombre & Correo \\ \hline
+        Nombre & Correo \\ \hline
+        Nombre & Correo \\ \hline
+        Nombre & Correo \\ \hline
     \end{tabular}
 \end{table}
 
-\section{Content}
-You can add sections, subsections, and more content here.
+\section{Duración del protocolo}
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|c|c|} \hline
+        Inicio & 5 de Agosto de 2024 \\ \hline
+        Fin & 6 de Diciembre de 2024 \\ \hline
+    \end{tabular}
+\end{table}
 
 \end{document}
