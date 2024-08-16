@@ -1,82 +1,82 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.15)  15 AUG 2024 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.16)  16 AUG 2024 13:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex
-(c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
-(C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+**"c:/Users/Silverio Ceron/Documents/TEC/Semestre 11/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex"
+(c:/Users/Silverio Ceron/Documents/TEC/Semestre 11/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-07-20>
+(C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\c@figure=\count193
-\c@table=\count194
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip50
-\f@nch@O@elh=\skip51
-\f@nch@O@erh=\skip52
-\f@nch@O@olh=\skip53
-\f@nch@O@orh=\skip54
-\f@nch@O@elf=\skip55
-\f@nch@O@erf=\skip56
-\f@nch@O@olf=\skip57
-\f@nch@O@orf=\skip58
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen143
-\ar@mcellbox=\box51
-\extrarowheight=\dimen144
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen144
+\ar@mcellbox=\box52
+\extrarowheight=\dimen145
 \NC@list=\toks18
-\extratabsurround=\skip59
-\backup@length=\skip60
-\ar@cellbox=\box52
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box53
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box53
-\beforetitleunit=\skip61
-\aftertitleunit=\skip62
-\ttl@plus=\dimen145
-\ttl@minus=\dimen146
+\ttl@box=\box54
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen146
+\ttl@minus=\dimen147
 \ttl@toksa=\toks19
-\titlewidth=\dimen147
-\titlewidthlast=\dimen148
-\titlewidthfirst=\dimen149
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count195
-\l__pdf_internal_box=\box54
-) (c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux)
+\titlewidth=\dimen148
+\titlewidthlast=\dimen149
+\titlewidthfirst=\dimen150
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box55
+) (c:\Users\Silverio Ceron\Documents\TEC\Semestre 11\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux)
 \openout1 = `protocolo_invertigacion.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -93,23 +93,23 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
- (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count196
-\scratchdimen=\dimen150
-\scratchbox=\box55
-\nofMPsegments=\count197
-\nofMParguments=\count198
+\scratchcounter=\count269
+\scratchdimen=\dimen151
+\scratchbox=\box56
+\nofMPsegments=\count270
+\nofMParguments=\count271
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count199
-\MPscratchDim=\dimen151
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen152
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
 \everyMPtoPDFconversion=\toks21
-) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\Silverio Ceron\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -118,34 +118,41 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 33.
-<recursos_img/tec_header_logo.png, id=1, 438.63875pt x 115.43124pt>
-File: recursos_img/tec_header_logo.png Graphic file (type png)
-<use recursos_img/tec_header_logo.png>
-Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 78.
-(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
- [1{C:/Users/eli-o/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
- <./recursos_img/tec_header_logo.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+<recursos_img/tec_header_logo.png, id=1, 438.63875pt x 115.43124pt>
 File: recursos_img/tec_header_logo.png Graphic file (type png)
 <use recursos_img/tec_header_logo.png>
 Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 86.
 (pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
- [2] (c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux)
+[1{C:/Users/Silverio Ceron/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+ <./recursos_img/tec_header_logo.png>]
+
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 101.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+[2] (c:\Users\Silverio Ceron\Documents\TEC\Semestre 11\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1852 strings out of 474486
- 30913 string characters out of 5743755
- 1934542 words of memory out of 5000000
- 24163 multiletter control sequences out of 15000+600000
+ 1856 strings out of 473898
+ 31034 string characters out of 5722195
+ 1938960 words of memory out of 5000000
+ 24755 multiletter control sequences out of 15000+600000
  561718 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,15n,65p,382b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.pdf (2 pages, 48421 bytes).
+ 57i,15n,65p,357b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Silverio Ceron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Silverio Ceron/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "c:\Users\Silverio Ceron\Documents\TEC\Semestre 11\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.pdf" (2 pages, 50559 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
